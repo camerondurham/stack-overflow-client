@@ -1,0 +1,6 @@
+{
+  "relation": "parent",
+  "api_site_parameter": "example",
+  "site_url": "http://example.stackexchange.com/",
+  "name": "Example Site"
+}

@@ -1,0 +1,28 @@
+{
+  "site": {
+    "launch_date": 1684474457,
+    "open_beta_date": 1684388057,
+    "closed_beta_date": 1684301657,
+    "site_state": "normal",
+    "icon_url": "http://sstatic.net/stackexchange/Img/apple-touch-icon.png",
+    "audience": "example lovers",
+    "site_url": "http://example.stackexchange.com",
+    "api_site_parameter": "example",
+    "logo_url": "http://sstatic.net/stackexchange/Img/logo.png",
+    "name": "Example Site",
+    "site_type": "main_site"
+  },
+  "new_active_users": 10,
+  "total_users": 500000,
+  "badges_per_minute": 1.9,
+  "total_badges": 5000000,
+  "total_votes": 10000000,
+  "total_comments": 4000000,
+  "answers_per_minute": 1.5,
+  "questions_per_minute": 3.1,
+  "total_answers": 2000000,
+  "total_accepted": 1000000,
+  "total_unanswered": 1000,
+  "total_questions": 1000000,
+  "api_revision": "2012.9.21.8675"
+}
