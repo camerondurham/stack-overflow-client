@@ -1,8 +1,15 @@
 [package]
-name = "stack-overflow"
+name = "stack-overflow-client"
 version = "0.1.0"
 edition = "2021"
-
+license-file = "LICENSE"
+keywords = ["stack-overflow", "api", "client", "stack-exchange"]
+repository = "https://github.com/camerondurham/stack-overflow-client"
+readme = "README.md"
+description = "An unofficial client for the Stack Exchange API"
+exclude = [
+    "api-examples/*",
+]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
