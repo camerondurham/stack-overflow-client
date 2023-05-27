@@ -1,4 +1,4 @@
-use stack_overflow::{
+use stack_overflow_client::{
     client::StackClient,
     common::{ApiVersion, StackSite},
     questions::QuestionRequest,

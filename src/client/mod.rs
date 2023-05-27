@@ -17,14 +17,14 @@ pub struct StackClient {
 ///
 /// Construct a default client for StackOverflow site, API version 2.3 (https://meta.stackexchange.com/questions/366977/api-2-3-release)
 /// ```rust
-/// use stack_overflow::client::StackClient;
+/// use stack_overflow_client::client::StackClient;
 /// let client = StackClient::new();
 /// ```
 ///
 /// Construct a e client for a specific site and API version
 /// ```rust
-/// use stack_overflow::client::StackClientBuilder;
-/// use stack_overflow::common::{ApiVersion, StackSite};
+/// use stack_overflow_client::client::StackClientBuilder;
+/// use stack_overflow_client::common::{ApiVersion, StackSite};
 /// let client = StackClientBuilder::new()
 ///                 .stack_site(StackSite::StackOverflow)
 ///                 .version(ApiVersion::V2_3)
