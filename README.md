@@ -2,6 +2,8 @@
 
 A feature incomplete Stack website (as in Stack Overflow) api wrapper for fun and no profit.
 
+Please reach out to [me](mailto:loge_fibrils0l@icloud.com) if this name is not allowed. 
+
 ## Examples
 
 Create a default client (for the StackOverflow site) and query for featured questions.
